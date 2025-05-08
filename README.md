@@ -31,10 +31,6 @@ Um sistema de gerenciamento de dados clínicos, incluindo pacientes e registros 
 - Email: [joaopedrosoupa@gmail.com](mailto:joaopedrosoupa@gmail.com)
 - LinkedIn: [João Pedro Souza Passos](https://www.linkedin.com/in/joão-pedro-souza-passos-a28508350/)
 
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub do João](https://github-readme-stats.vercel.app/api?username=Jpsoupa1&show_icons=true&theme=tokyonight)
-
 ---
 
 Fique à vontade para explorar meus projetos e se conectar comigo. Estou sempre aberto a novos desafios e oportunidades!
